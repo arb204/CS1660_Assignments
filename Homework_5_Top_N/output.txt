@@ -1,0 +1,5 @@
+thy	2750
+levin	7565
+prince	9425
+man	9495
+king	10855
